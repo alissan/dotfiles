@@ -1,1 +1,2 @@
-* original theme: https://github.com/fniessen/org-html-themes
+* original theme 
+    - https://github.com/fniessen/org-html-themes
